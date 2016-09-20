@@ -1,0 +1,7 @@
+# GADM
+### GADM.org world shapefiles
+* Release Date: 2016-01-01
+* Team: [Insights](./../teams/insights.md)
+* Type: data
+* Level: Foundation
+* Area: 3rd Party
