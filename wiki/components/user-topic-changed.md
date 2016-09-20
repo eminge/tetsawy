@@ -5,6 +5,6 @@
 * Type: topic
 * Level: Foundation
 * Area: [User](../areas/user.png)
-* List Name:
+* Dependents:
   * [User Pipeline](user-pipeline.md)
   * [User Worker Service](user-worker.md)

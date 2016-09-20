@@ -5,7 +5,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Analytics DW](analytics-dw.md)
   * [Book DB](book.md)
   * [Fish](fish.md)

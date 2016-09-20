@@ -4,7 +4,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Alert Notify Topic](alert-notify-topic.md)
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)

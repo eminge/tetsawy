@@ -5,7 +5,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Archaeopteryx](archaeopteryx.md)
   * [Fish](fish.md)
   * [GitHub](github.md)

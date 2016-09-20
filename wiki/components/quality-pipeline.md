@@ -6,6 +6,6 @@
 * Type: dataflow
 * Level: Application
 * Area: [Submission](../areas/submission.png)
-* List Name:
+* Dependents:
   * [Analytics](analytics-schema.md)
   * [Submission Service](submission-service.md)

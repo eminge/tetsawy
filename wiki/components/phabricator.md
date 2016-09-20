@@ -5,5 +5,5 @@
 * Type: service
 * Level: Application
 * Area: [Tools](../areas/tools.png)
-* List Name:
+* Dependents:
   * [Phabricator DB](phabricator-rds.md)

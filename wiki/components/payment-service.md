@@ -6,7 +6,7 @@
 * Type: service
 * Level: Application
 * Area: [Payment](../areas/payment.png)
-* List Name:
+* Dependents:
   * [Analytics](analytics-schema.md)
   * [Payment Database](payment-datastore.md)
   * [Sensitive](sensitive-schema.md)

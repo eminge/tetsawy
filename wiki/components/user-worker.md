@@ -6,5 +6,5 @@
 * Type: service
 * Level: Application
 * Area: [User](../areas/user.png)
-* List Name:
+* Dependents:
   * [User Service](user-service.md)

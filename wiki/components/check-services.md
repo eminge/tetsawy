@@ -5,7 +5,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Alert Triggers](alert-triggers-topic.md)
   * [Analytics DW](analytics-dw.md)
   * [Archaeopteryx](archaeopteryx.md)

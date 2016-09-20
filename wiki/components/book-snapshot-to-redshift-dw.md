@@ -5,7 +5,7 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [Analytics DW](analytics-dw.md)
   * [Book Snapshot](book-snapshot.md)
   * [Book Snapshot Increment](book-snapshot-increment.md)

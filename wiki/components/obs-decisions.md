@@ -5,7 +5,7 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [Book Snapshot Views](book-snapshot-views.md)
   * [Fraud Analytics](fraud-analytics-daily.md)
   * [Mobile BG/Book Write](mobile-bg-book-write.md)

@@ -5,7 +5,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Book DB](book.md)
   * [GraphQL](graphql-fe.md)
   * [Indicators Storage](indicators-storage.md)

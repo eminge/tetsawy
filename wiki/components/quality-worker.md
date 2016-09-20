@@ -6,5 +6,5 @@
 * Type: service
 * Level: Application
 * Area: [Submission](../areas/submission.png)
-* List Name:
+* Dependents:
   * [Submission Service](submission-service.md)

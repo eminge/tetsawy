@@ -6,7 +6,7 @@
 * Type: service
 * Level: Application
 * Area: [Task](../areas/task.png)
-* List Name:
+* Dependents:
   * [Analytics](analytics-schema.md)
   * [Campaign Service](campaign-service.md)
   * [Task Datastore](task-datastore.md)

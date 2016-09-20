@@ -3,5 +3,5 @@
 * Type: sqs
 * Level: Foundation
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Alert Notify](alert-notify.md)

@@ -5,5 +5,5 @@
 * Type: service
 * Level: Foundation
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [CMS DB](cms-db.md)

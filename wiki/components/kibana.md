@@ -5,5 +5,5 @@
 * Type: elastisearch
 * Level: Foundation
 * Area: [Tools](../areas/tools.png)
-* List Name:
+* Dependents:
   * [Mumak](mumak.md)

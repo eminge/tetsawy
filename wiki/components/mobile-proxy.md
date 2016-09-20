@@ -6,7 +6,7 @@
 * Type: service
 * Level: Application
 * Area: [Mobile](../areas/mobile.png)
-* List Name:
+* Dependents:
   * [Payment Service](payment-service.md)
   * [Submission Service](submission-service.md)
   * [Task Service](task-service.md)

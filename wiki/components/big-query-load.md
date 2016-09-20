@@ -4,7 +4,7 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [Book Snapshot Increment](book-snapshot-increment.md)
   * [Fraud Analytics](fraud-analytics-daily.md)
   * [Pipeline Storage](pipeline-storage.md)

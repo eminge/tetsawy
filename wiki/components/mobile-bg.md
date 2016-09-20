@@ -3,7 +3,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Astropay](astropay.md)
   * [Book DB](book.md)
   * [Coinbase](coinbase.md)

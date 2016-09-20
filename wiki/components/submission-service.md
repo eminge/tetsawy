@@ -6,7 +6,7 @@
 * Type: service
 * Level: Application
 * Area: [Submission](../areas/submission.png)
-* List Name:
+* Dependents:
   * [Analytics](analytics-schema.md)
   * [Submission Datastore](submission-datastore.md)
   * [Submission Changed Topic](submission-topic-changed.md)

@@ -5,6 +5,6 @@
 * Type: topic
 * Level: Foundation
 * Area: [Submission](../areas/submission.png)
-* List Name:
+* Dependents:
   * [Quality Pipeline](quality-pipeline.md)
   * [Quality Worker Service](quality-worker.md)

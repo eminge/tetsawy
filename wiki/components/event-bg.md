@@ -3,7 +3,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Amplitude](amplitude.md)
   * [Analytics DW](analytics-dw.md)
   * [Book DB](book.md)

@@ -5,6 +5,6 @@
 * Type: dataset
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [WorldPop population density GeoTIFF files](worldpop.md)
   * [Worldpop Storage](worldpop-storage.md)

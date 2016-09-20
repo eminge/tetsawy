@@ -4,7 +4,7 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [Book Snapshot](book-snapshot.md)
   * [Event BG DW Write](event-bg-dw-write.md)
   * [Pipeline Storage](pipeline-storage.md)

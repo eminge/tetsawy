@@ -4,6 +4,6 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [Observation Decisions](obs-decisions.md)
   * [Pipeline Storage](pipeline-storage.md)

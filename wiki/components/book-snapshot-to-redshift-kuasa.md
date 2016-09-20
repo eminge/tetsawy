@@ -5,7 +5,7 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [Book Snapshot](book-snapshot.md)
   * [Book Snapshot Increment](book-snapshot-increment.md)
   * [Book Snapshot Views](book-snapshot-views.md)

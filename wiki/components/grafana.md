@@ -5,7 +5,7 @@
 * Type: service
 * Level: Foundation
 * Area: [Tools](../areas/tools.png)
-* List Name:
+* Dependents:
   * [Cloudwatch](cloudwatch.md)
   * [Fish](fish.md)
   * [Graphite](graphite.md)

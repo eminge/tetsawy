@@ -6,7 +6,7 @@
 * Type: apk
 * Level: Application
 * Area: [Mobile](../areas/mobile.png)
-* List Name:
+* Dependents:
   * [Amplitude](amplitude.md)
   * [Investigo Android](investigo-android.md)
   * [Mobile Proxy](mobile-proxy.md)

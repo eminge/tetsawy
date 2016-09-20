@@ -3,5 +3,5 @@
 * Type: sns
 * Level: Foundation
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Alert Notify Queue](alert-notify-queue.md)

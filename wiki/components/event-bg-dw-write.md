@@ -5,6 +5,6 @@
 * Type: pipeline
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
-* List Name:
+* Dependents:
   * [Analytics DW](analytics-dw.md)
   * [Pipeline Storage](pipeline-storage.md)

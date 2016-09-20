@@ -5,5 +5,5 @@
 * Type: service
 * Level: Foundation
 * Area: [Tools](../areas/tools.png)
-* List Name:
+* Dependents:
   * [Graphite](graphite.md)

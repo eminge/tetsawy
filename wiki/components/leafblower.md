@@ -4,7 +4,7 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
-* List Name:
+* Dependents:
   * [All Decisions](all-decisions.md)
   * [BigQuery Load](big-query-load.md)
   * [Book Labels Join](book-labels-join.md)
