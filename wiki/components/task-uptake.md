@@ -4,4 +4,4 @@
 * Team: [Task Scheduling](../teams/scheduling.md)
 * Type: pipeline
 * Level: Application
-* Area: [Pipelines](areas/pipelines.png)
+* Area: [Pipelines](../areas/pipelines.png)

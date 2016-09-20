@@ -4,4 +4,4 @@
 * Team: [Insights](../teams/insights.md)
 * Type: job
 * Level: Application
-* Area: [Pipelines](areas/pipelines.png)
+* Area: [Pipelines](../areas/pipelines.png)

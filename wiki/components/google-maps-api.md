@@ -3,4 +3,4 @@
 * Team: [Insights](../teams/insights.md)
 * Type: service
 * Level: Foundation
-* Area: [Google](areas/3rd-party-google.png)
+* Area: [Google](../areas/3rd-party-google.png)

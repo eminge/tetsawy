@@ -4,4 +4,4 @@
 * Team: [Platform & SRE](../teams/platform.md)
 * Type: service
 * Level: Application
-* Area: [Tools](areas/tools.png)
+* Area: [Tools](../areas/tools.png)

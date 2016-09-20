@@ -4,4 +4,4 @@
 * Team: [Task Scheduling](../teams/scheduling.md)
 * Type: datastore
 * Level: Foundation
-* Area: [Task](areas/task.png)
+* Area: [Task](../areas/task.png)

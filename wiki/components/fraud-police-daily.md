@@ -3,4 +3,4 @@
 * Team: [Data Quality](../teams/data-quality.md)
 * Type: pipeline
 * Level: Application
-* Area: [Pipelines](areas/pipelines.png)
+* Area: [Pipelines](../areas/pipelines.png)

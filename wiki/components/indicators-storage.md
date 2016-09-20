@@ -4,4 +4,4 @@
 * Team: [Platform & SRE](../teams/platform.md)
 * Type: s3
 * Level: Application
-* Area: [Premise v2](areas/v2.png)
+* Area: [Premise v2](../areas/v2.png)

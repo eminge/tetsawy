@@ -4,4 +4,4 @@
 * Team: [Task Scheduling](../teams/scheduling.md)
 * Type: job
 * Level: Foundation
-* Area: [Premise v2](areas/v2.png)
+* Area: [Premise v2](../areas/v2.png)

@@ -5,4 +5,4 @@
 * Team: [Data Quality](../teams/data-quality.md)
 * Type: dataflow
 * Level: Application
-* Area: [Submission](areas/submission.png)
+* Area: [Submission](../areas/submission.png)

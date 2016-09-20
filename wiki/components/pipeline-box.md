@@ -4,4 +4,4 @@
 * Team: [Insights](../teams/insights.md)
 * Type: service
 * Level: Foundation
-* Area: [Premise v2](areas/v2.png)
+* Area: [Premise v2](../areas/v2.png)

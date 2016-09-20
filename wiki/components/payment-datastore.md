@@ -4,4 +4,4 @@
 * Team: [Payments](../teams/payments.md)
 * Type: cloudsql
 * Level: Foundation
-* Area: [Payment](areas/payment.png)
+* Area: [Payment](../areas/payment.png)

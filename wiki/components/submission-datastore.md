@@ -4,4 +4,4 @@
 * Team: [Data Quality](../teams/data-quality.md)
 * Type: datastore
 * Level: Foundation
-* Area: [Submission](areas/submission.png)
+* Area: [Submission](../areas/submission.png)

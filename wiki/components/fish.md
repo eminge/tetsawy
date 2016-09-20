@@ -4,4 +4,4 @@
 * Team: [Mobile](../teams/mobile.md)
 * Type: elastisearch
 * Level: Application
-* Area: [Premise v2](areas/v2.png)
+* Area: [Premise v2](../areas/v2.png)

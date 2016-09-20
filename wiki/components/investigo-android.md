@@ -5,4 +5,4 @@
 * Team: [3rd Party](../teams/3rd-party.md)
 * Type: jar
 * Level: Library
-* Area: [Android](areas/3rd-party-android.png)
+* Area: [Android](../areas/3rd-party-android.png)

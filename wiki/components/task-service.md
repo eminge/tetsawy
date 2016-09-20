@@ -5,4 +5,4 @@
 * Team: [Task Scheduling](../teams/scheduling.md)
 * Type: service
 * Level: Application
-* Area: [Task](areas/task.png)
+* Area: [Task](../areas/task.png)

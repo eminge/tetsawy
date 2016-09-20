@@ -4,4 +4,4 @@
 * Team: [Platform & SRE](../teams/platform.md)
 * Type: rds
 * Level: Foundation
-* Area: [Tools](areas/tools.png)
+* Area: [Tools](../areas/tools.png)

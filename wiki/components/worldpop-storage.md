@@ -4,4 +4,4 @@
 * Team: [Platform & SRE](../teams/platform.md)
 * Type: s3
 * Level: Application
-* Area: [Pipelines](areas/pipelines.png)
+* Area: [Pipelines](../areas/pipelines.png)

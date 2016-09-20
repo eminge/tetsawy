@@ -4,4 +4,4 @@
 * Team: [Insights](../teams/insights.md)
 * Type: dataset
 * Level: Application
-* Area: [Pipelines](areas/pipelines.png)
+* Area: [Pipelines](../areas/pipelines.png)

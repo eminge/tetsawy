@@ -4,4 +4,4 @@
 * Team: [Insights](../teams/insights.md)
 * Type: schema
 * Level: Application
-* Area: [Data Warehouse](areas/data-warehouse.png)
+* Area: [Data Warehouse](../areas/data-warehouse.png)
