@@ -1,5 +1,5 @@
 ## Teams
-* [3rd Party](/teams/3rd-party.md)
+* [3rd Party](./teams/3rd-party.md)
 * [Data Quality](/teams/data-quality.md)
 * [Insights](/teams/insights.md)
 * [Mobile](/teams/mobile.md)
