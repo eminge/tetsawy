@@ -1,0 +1,13 @@
+# Book Snapshot
+### Reads from the book database and creates a snapshot in S3
+* Release Date: 2016-01-01
+* Team: [Insights](../teams/insights.md)
+* Type: pipeline
+* Level: Application
+* Area: [Pipelines](../areas/pipelines.png)
+* Dependents:
+  * [Book DB R/O](book-read.md)
+  * [Pipeline Storage](pipeline-storage.md)
+* Depends On:
+  * [Book DB R/O](book-read.md)
+  * [Pipeline Storage](pipeline-storage.md)
