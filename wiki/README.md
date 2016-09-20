@@ -136,24 +136,24 @@
 * [Worldpop Storage](components/worldpop-storage.md)
 
 ## Areas
-* 3rd Party
-* Android
-* AWS
-* Google
-* Payments
-* Campaign
-* Data Warehouse
-* Legacy
-* Mobile
-* Payment
-* Pipelines
-* Premise v3
-* Premise
-* Submission
-* Task
-* Tools
-* User
-* Premise v2
+* [3rd Party](areas/3rd-party.png)
+* [Android](areas/3rd-party-android.png)
+* [AWS](areas/3rd-party-aws.png)
+* [Google](areas/3rd-party-google.png)
+* [Payments](areas/3rd-party-payments.png)
+* [Campaign](areas/campaign.png)
+* [Data Warehouse](areas/data-warehouse.png)
+* [Legacy](areas/legacy.png)
+* [Mobile](areas/mobile.png)
+* [Payment](areas/payment.png)
+* [Pipelines](areas/pipelines.png)
+* [Premise v3](areas/premise.png)
+* [Premise](areas/premise-system.png)
+* [Submission](areas/submission.png)
+* [Task](areas/task.png)
+* [Tools](areas/tools.png)
+* [User](areas/user.png)
+* [Premise v2](areas/v2.png)
 
 ## Levels (Order)
 * Application (70)
