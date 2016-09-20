@@ -1,12 +1,12 @@
 ## Teams
-* [3rd Party](./teams/3rd-party.md)
-* [Data Quality](./teams/data-quality.md)
-* [Insights](./teams/insights.md)
-* [Mobile](./teams/mobile.md)
-* [Payments](./teams/payments.md)
-* [Platform & SRE](./teams/platform.md)
-* [Task Scheduling](./teams/scheduling.md)
-* [Supply Management](./teams/supply.md)
+* [3rd Party](teams/3rd-party.md)
+* [Data Quality](teams/data-quality.md)
+* [Insights](teams/insights.md)
+* [Mobile](teams/mobile.md)
+* [Payments](teams/payments.md)
+* [Platform & SRE](teams/platform.md)
+* [Task Scheduling](teams/scheduling.md)
+* [Supply Management](teams/supply.md)
 
 ## Components
 * [Alert Notify](./components/alert-notify.md)
