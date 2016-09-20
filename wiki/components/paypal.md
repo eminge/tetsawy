@@ -1,5 +1,5 @@
 # PayPal
-* Team: [Payments](./../teams/payments.md)
+* Team: [Payments](../teams/payments.md)
 * Type: service
 * Level: Application
 * Area: Payments
