@@ -5,3 +5,6 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
+* List Name:
+  * [Book DB R/O](book-read.md)
+  * [Pipeline Storage](pipeline-storage.md)

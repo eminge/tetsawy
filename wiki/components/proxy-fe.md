@@ -5,3 +5,7 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* List Name:
+  * [CMS](cms-fe.md)
+  * [Logstash](logstash.md)
+  * [Logstash JVM](logstash-jvm.md)

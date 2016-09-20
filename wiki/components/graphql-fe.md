@@ -5,3 +5,13 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* List Name:
+  * [Analytics DW](analytics-dw.md)
+  * [Book DB](book.md)
+  * [Fish](fish.md)
+  * [Indicators Storage](indicators-storage.md)
+  * [Logstash](logstash.md)
+  * [Logstash JVM](logstash-jvm.md)
+  * [Mumak](mumak.md)
+  * [Shopkeeper](shopkeeper.md)
+  * [User Voice](user-voice.md)

@@ -5,3 +5,9 @@
 * Type: job
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* List Name:
+  * [Book DB](book.md)
+  * [Graphite](graphite.md)
+  * [Logstash](logstash.md)
+  * [Logstash JVM](logstash-jvm.md)
+  * [Pipeline Storage](pipeline-storage.md)

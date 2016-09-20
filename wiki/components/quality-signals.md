@@ -5,3 +5,6 @@
 * Type: pipeline
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
+* List Name:
+  * [Book Snapshot Views](book-snapshot-views.md)
+  * [Pipeline Storage](pipeline-storage.md)

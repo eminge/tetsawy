@@ -5,3 +5,5 @@
 * Type: apk
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* List Name:
+  * [Mobile FE](mobile-fe.md)

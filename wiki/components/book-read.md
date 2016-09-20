@@ -5,3 +5,5 @@
 * Type: rds
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* List Name:
+  * [Book DB](book.md)

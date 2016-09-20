@@ -6,3 +6,6 @@
 * Type: service
 * Level: Application
 * Area: [Campaign](../areas/campaign.png)
+* List Name:
+  * [Analytics](analytics-schema.md)
+  * [Campaign Datastore](campaign-datastore.md)

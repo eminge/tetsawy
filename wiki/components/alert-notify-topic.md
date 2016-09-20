@@ -5,3 +5,5 @@
 * Type: sns
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* List Name:
+  * [Pager Duty](pagerduty.md)

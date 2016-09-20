@@ -5,3 +5,10 @@
 * Type: service
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* List Name:
+  * [Book DB](book.md)
+  * [GraphQL](graphql-fe.md)
+  * [Indicators Storage](indicators-storage.md)
+  * [Logstash](logstash.md)
+  * [Logstash JVM](logstash-jvm.md)
+  * [Shopkeeper](shopkeeper.md)
