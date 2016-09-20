@@ -8,6 +8,3 @@
 * Dependents:
   * [GADM](gadm.md)
   * [Shapefile Storage](shapefile-storage.md)
-* Depends On:
-  * [GADM](gadm.md)
-  * [Shapefile Storage](shapefile-storage.md)

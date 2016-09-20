@@ -4,3 +4,5 @@
 * Type: service
 * Level: Foundation
 * Area: [Google](../areas/3rd-party-google.png)
+* Depends On:
+  * [Google Reverse Geocode Increment](google-reverse-geocode-increment.md)

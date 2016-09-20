@@ -8,6 +8,3 @@
 * Dependents:
   * [Alert Notify](alert-notify.md)
   * [Check Services](check-services.md)
-* Depends On:
-  * [Alert Notify](alert-notify.md)
-  * [Check Services](check-services.md)

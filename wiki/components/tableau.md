@@ -7,5 +7,3 @@
 * Area: [3rd Party](../areas/3rd-party.png)
 * Dependents:
   * [Analytics DW](analytics-dw.md)
-* Depends On:
-  * [Analytics DW](analytics-dw.md)

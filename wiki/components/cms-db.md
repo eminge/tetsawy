@@ -5,3 +5,5 @@
 * Type: rds
 * Level: Foundation
 * Area: [Premise v2](../areas/v2.png)
+* Depends On:
+  * [CMS](cms-fe.md)

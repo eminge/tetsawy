@@ -9,5 +9,4 @@
   * [User Pipeline](user-pipeline.md)
   * [User Worker Service](user-worker.md)
 * Depends On:
-  * [User Pipeline](user-pipeline.md)
-  * [User Worker Service](user-worker.md)
+  * [User Service](user-service.md)

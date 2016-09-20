@@ -9,6 +9,5 @@
   * [Event BG DW Write](event-bg-dw-write.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Book Snapshot](book-snapshot.md)
-  * [Event BG DW Write](event-bg-dw-write.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [BigQuery Load](big-query-load.md)
+  * [Leafblower](leafblower.md)

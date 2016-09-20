@@ -10,5 +10,4 @@
   * [Analytics](analytics-schema.md)
   * [Submission Service](submission-service.md)
 * Depends On:
-  * [Analytics](analytics-schema.md)
-  * [Submission Service](submission-service.md)
+  * [Submission Changed Topic](submission-topic-changed.md)

@@ -12,8 +12,4 @@
   * [Pipeline Storage](pipeline-storage.md)
   * [Quality Signals](quality-signals.md)
 * Depends On:
-  * [Book Snapshot Views](book-snapshot-views.md)
-  * [Fraud Analytics](fraud-analytics-daily.md)
-  * [Mobile BG/Book Write](mobile-bg-book-write.md)
-  * [Pipeline Storage](pipeline-storage.md)
-  * [Quality Signals](quality-signals.md)
+  * [All Decisions](all-decisions.md)

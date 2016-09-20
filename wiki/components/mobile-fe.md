@@ -12,8 +12,5 @@
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)
 * Depends On:
-  * [Book DB](book.md)
-  * [Fish](fish.md)
-  * [Graphite](graphite.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
+  * [Android App](android-v2.md)
+  * [Check Services](check-services.md)

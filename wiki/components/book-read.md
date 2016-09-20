@@ -8,4 +8,4 @@
 * Dependents:
   * [Book DB](book.md)
 * Depends On:
-  * [Book DB](book.md)
+  * [Book Snapshot](book-snapshot.md)

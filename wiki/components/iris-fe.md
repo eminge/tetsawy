@@ -13,9 +13,4 @@
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)
 * Depends On:
-  * [Archaeopteryx](archaeopteryx.md)
-  * [Book DB](book.md)
-  * [CMS](cms-fe.md)
-  * [Fish](fish.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
+  * [Check Services](check-services.md)

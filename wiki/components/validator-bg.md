@@ -8,7 +8,3 @@
   * [Book DB](book.md)
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)
-* Depends On:
-  * [Book DB](book.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)

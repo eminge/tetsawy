@@ -10,8 +10,3 @@
   * [Fish](fish.md)
   * [Graphite](graphite.md)
   * [Mumak](mumak.md)
-* Depends On:
-  * [Cloudwatch](cloudwatch.md)
-  * [Fish](fish.md)
-  * [Graphite](graphite.md)
-  * [Mumak](mumak.md)

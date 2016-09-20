@@ -8,5 +8,4 @@
   * [Google Reverse Geocode Increment](google-reverse-geocode-increment.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Google Reverse Geocode Increment](google-reverse-geocode-increment.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Merged Labels CSV Writer](merged-labels-csv-writer.md)

@@ -14,10 +14,4 @@
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)
 * Depends On:
-  * [Archaeopteryx](archaeopteryx.md)
-  * [Fish](fish.md)
   * [GitHub](github.md)
-  * [Graphite](graphite.md)
-  * [Kuasa DW](kuasa-dw.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)

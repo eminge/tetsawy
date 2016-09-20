@@ -12,8 +12,4 @@
   * [Logstash JVM](logstash-jvm.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Book DB](book.md)
-  * [Graphite](graphite.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Check Services](check-services.md)

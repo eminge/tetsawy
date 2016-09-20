@@ -4,3 +4,5 @@
 * Type: data
 * Level: Foundation
 * Area: [3rd Party](../areas/3rd-party.png)
+* Depends On:
+  * [Geotiff Extractor](extract-geotiff.md)

@@ -6,4 +6,4 @@
 * Dependents:
   * [Alert Notify Queue](alert-notify-queue.md)
 * Depends On:
-  * [Alert Notify Queue](alert-notify-queue.md)
+  * [Check Services](check-services.md)

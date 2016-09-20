@@ -12,7 +12,4 @@
   * [Task Service](task-service.md)
   * [User Service](user-service.md)
 * Depends On:
-  * [Payment Service](payment-service.md)
-  * [Submission Service](submission-service.md)
-  * [Task Service](task-service.md)
-  * [User Service](user-service.md)
+  * [Android](android.md)

@@ -11,6 +11,4 @@
   * [Sensitive](sensitive-schema.md)
   * [User Service](user-service.md)
 * Depends On:
-  * [Analytics](analytics-schema.md)
-  * [Sensitive](sensitive-schema.md)
-  * [User Service](user-service.md)
+  * [User Changed Topic](user-topic-changed.md)

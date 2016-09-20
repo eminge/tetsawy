@@ -9,6 +9,4 @@
   * [Pipeline Storage](pipeline-storage.md)
   * [Shapefile Storage](shapefile-storage.md)
 * Depends On:
-  * [Book Snapshot](book-snapshot.md)
-  * [Pipeline Storage](pipeline-storage.md)
-  * [Shapefile Storage](shapefile-storage.md)
+  * [Shapefile Merge](shapefile-merge.md)

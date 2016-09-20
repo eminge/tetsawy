@@ -8,4 +8,5 @@
 * Dependents:
   * [CMS DB](cms-db.md)
 * Depends On:
-  * [CMS DB](cms-db.md)
+  * [Iris FE](iris-fe.md)
+  * [Proxy FE](proxy-fe.md)

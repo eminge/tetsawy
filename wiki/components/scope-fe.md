@@ -11,7 +11,4 @@
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)
 * Depends On:
-  * [Book DB](book.md)
-  * [Fish](fish.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
+  * [Check Services](check-services.md)

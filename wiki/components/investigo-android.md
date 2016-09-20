@@ -6,3 +6,5 @@
 * Type: jar
 * Level: Library
 * Area: [Android](../areas/3rd-party-android.png)
+* Depends On:
+  * [Android](android.md)

@@ -5,3 +5,6 @@
 * Type: s3
 * Level: Application
 * Area: [Pipelines](../areas/pipelines.png)
+* Depends On:
+  * [Geotiff Extractor](extract-geotiff.md)
+  * [Worldpop Increment](worldpop-increment.md)

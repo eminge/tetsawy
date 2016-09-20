@@ -5,3 +5,6 @@
 * Type: service
 * Level: Application
 * Area: [3rd Party](../areas/3rd-party.png)
+* Depends On:
+  * [Check Services](check-services.md)
+  * [Grafana](grafana.md)

@@ -7,5 +7,3 @@
 * Area: [Tools](../areas/tools.png)
 * Dependents:
   * [Phabricator DB](phabricator-rds.md)
-* Depends On:
-  * [Phabricator DB](phabricator-rds.md)

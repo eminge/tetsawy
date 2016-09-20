@@ -10,7 +10,3 @@
   * [Amplitude](amplitude.md)
   * [Investigo Android](investigo-android.md)
   * [Mobile Proxy](mobile-proxy.md)
-* Depends On:
-  * [Amplitude](amplitude.md)
-  * [Investigo Android](investigo-android.md)
-  * [Mobile Proxy](mobile-proxy.md)

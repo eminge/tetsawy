@@ -5,3 +5,5 @@
 * Type: datastore
 * Level: Foundation
 * Area: [User](../areas/user.png)
+* Depends On:
+  * [User Service](user-service.md)

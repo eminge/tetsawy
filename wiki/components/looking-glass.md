@@ -7,5 +7,3 @@
 * Area: [Tools](../areas/tools.png)
 * Dependents:
   * [Graphite](graphite.md)
-* Depends On:
-  * [Graphite](graphite.md)

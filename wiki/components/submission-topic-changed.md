@@ -9,5 +9,4 @@
   * [Quality Pipeline](quality-pipeline.md)
   * [Quality Worker Service](quality-worker.md)
 * Depends On:
-  * [Quality Pipeline](quality-pipeline.md)
-  * [Quality Worker Service](quality-worker.md)
+  * [Submission Service](submission-service.md)

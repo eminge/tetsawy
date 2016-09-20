@@ -8,6 +8,3 @@
 * Dependents:
   * [Fish](fish.md)
   * [Pipeline Storage](pipeline-storage.md)
-* Depends On:
-  * [Fish](fish.md)
-  * [Pipeline Storage](pipeline-storage.md)

@@ -10,6 +10,4 @@
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)
 * Depends On:
-  * [CMS](cms-fe.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
+  * [Check Services](check-services.md)

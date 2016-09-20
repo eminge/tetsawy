@@ -11,7 +11,4 @@
   * [Pipeline Storage](pipeline-storage.md)
   * [Shopkeeper](shopkeeper.md)
 * Depends On:
-  * [Analytics DW](analytics-dw.md)
-  * [Fish](fish.md)
-  * [Pipeline Storage](pipeline-storage.md)
-  * [Shopkeeper](shopkeeper.md)
+  * [Check Services](check-services.md)

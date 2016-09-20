@@ -12,7 +12,6 @@
   * [User Datastore](user-datastore.md)
   * [User Changed Topic](user-topic-changed.md)
 * Depends On:
-  * [Analytics](analytics-schema.md)
-  * [Sensitive](sensitive-schema.md)
-  * [User Datastore](user-datastore.md)
-  * [User Changed Topic](user-topic-changed.md)
+  * [Mobile Proxy](mobile-proxy.md)
+  * [User Pipeline](user-pipeline.md)
+  * [User Worker Service](user-worker.md)

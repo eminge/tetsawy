@@ -11,6 +11,4 @@
   * [Payment Database](payment-datastore.md)
   * [Sensitive](sensitive-schema.md)
 * Depends On:
-  * [Analytics](analytics-schema.md)
-  * [Payment Database](payment-datastore.md)
-  * [Sensitive](sensitive-schema.md)
+  * [Mobile Proxy](mobile-proxy.md)

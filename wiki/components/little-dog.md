@@ -5,3 +5,6 @@
 * Type: vm
 * Level: Foundation
 * Area: [Premise v2](../areas/v2.png)
+* Depends On:
+  * [Alerts](alerts.md)
+  * [Check Services](check-services.md)

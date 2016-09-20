@@ -13,9 +13,4 @@
   * [Kuasa DW](kuasa-dw.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Book Snapshot](book-snapshot.md)
-  * [Book Snapshot Increment](book-snapshot-increment.md)
-  * [Book Snapshot Views](book-snapshot-views.md)
-  * [Book Snapshot Views Increment](book-snapshot-views-increment.md)
-  * [Kuasa DW](kuasa-dw.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Leafblower](leafblower.md)

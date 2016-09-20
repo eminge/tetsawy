@@ -9,5 +9,11 @@
   * [Book DB R/O](book-read.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Book DB R/O](book-read.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Book Snapshot Increment](book-snapshot-increment.md)
+  * [Snapshot to Redshift](book-snapshot-to-redshift-dw.md)
+  * [Snapshot to Kuasa](book-snapshot-to-redshift-kuasa.md)
+  * [Fraud Analytics](fraud-analytics-daily.md)
+  * [Leafblower](leafblower.md)
+  * [Shapefile Increment](shapefile-increment.md)
+  * [Task Uptake](task-uptake.md)
+  * [User Analytics](user-analytics.md)

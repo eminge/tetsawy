@@ -13,9 +13,4 @@
   * [Book Snapshot Views Increment](book-snapshot-views-increment.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Analytics DW](analytics-dw.md)
-  * [Book Snapshot](book-snapshot.md)
-  * [Book Snapshot Increment](book-snapshot-increment.md)
-  * [Book Snapshot Views](book-snapshot-views.md)
-  * [Book Snapshot Views Increment](book-snapshot-views-increment.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Leafblower](leafblower.md)

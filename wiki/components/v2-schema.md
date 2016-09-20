@@ -5,3 +5,5 @@
 * Type: schema
 * Level: Application
 * Area: [Legacy](../areas/legacy.png)
+* Depends On:
+  * [BigQuery Load](big-query-load.md)

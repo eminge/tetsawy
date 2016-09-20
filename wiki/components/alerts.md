@@ -7,5 +7,3 @@
 * Area: [Premise v2](../areas/v2.png)
 * Dependents:
   * [Little Dog](little-dog.md)
-* Depends On:
-  * [Little Dog](little-dog.md)

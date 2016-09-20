@@ -8,5 +8,4 @@
   * [Pipeline Storage](pipeline-storage.md)
   * [Worldpop Increment](worldpop-increment.md)
 * Depends On:
-  * [Pipeline Storage](pipeline-storage.md)
-  * [Worldpop Increment](worldpop-increment.md)
+  * [Merged Labels CSV Writer](merged-labels-csv-writer.md)

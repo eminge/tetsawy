@@ -16,12 +16,4 @@
   * [Shopkeeper](shopkeeper.md)
   * [User Voice](user-voice.md)
 * Depends On:
-  * [Analytics DW](analytics-dw.md)
-  * [Book DB](book.md)
-  * [Fish](fish.md)
-  * [Indicators Storage](indicators-storage.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
-  * [Mumak](mumak.md)
-  * [Shopkeeper](shopkeeper.md)
-  * [User Voice](user-voice.md)
+  * [Lumina FE](lumina-fe.md)

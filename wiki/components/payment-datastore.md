@@ -5,3 +5,5 @@
 * Type: cloudsql
 * Level: Foundation
 * Area: [Payment](../areas/payment.png)
+* Depends On:
+  * [Payment Service](payment-service.md)

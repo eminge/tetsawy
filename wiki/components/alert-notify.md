@@ -9,6 +9,5 @@
   * [Logstash](logstash.md)
   * [Logstash JVM](logstash-jvm.md)
 * Depends On:
-  * [Alert Notify Topic](alert-notify-topic.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
+  * [Alert Notify Queue](alert-notify-queue.md)
+  * [Pingdom](pingdom.md)

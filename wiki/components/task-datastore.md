@@ -5,3 +5,5 @@
 * Type: datastore
 * Level: Foundation
 * Area: [Task](../areas/task.png)
+* Depends On:
+  * [Task Service](task-service.md)

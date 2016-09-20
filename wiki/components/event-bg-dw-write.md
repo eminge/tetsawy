@@ -9,5 +9,6 @@
   * [Analytics DW](analytics-dw.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Analytics DW](analytics-dw.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Fraud Analytics](fraud-analytics-daily.md)
+  * [Task Uptake](task-uptake.md)
+  * [User Analytics](user-analytics.md)

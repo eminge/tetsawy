@@ -5,3 +5,6 @@
 * Type: s3
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* Depends On:
+  * [GraphQL](graphql-fe.md)
+  * [Lumina FE](lumina-fe.md)

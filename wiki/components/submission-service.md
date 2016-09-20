@@ -11,6 +11,6 @@
   * [Submission Datastore](submission-datastore.md)
   * [Submission Changed Topic](submission-topic-changed.md)
 * Depends On:
-  * [Analytics](analytics-schema.md)
-  * [Submission Datastore](submission-datastore.md)
-  * [Submission Changed Topic](submission-topic-changed.md)
+  * [Mobile Proxy](mobile-proxy.md)
+  * [Quality Pipeline](quality-pipeline.md)
+  * [Quality Worker Service](quality-worker.md)

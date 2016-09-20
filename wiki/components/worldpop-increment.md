@@ -9,6 +9,4 @@
   * [Shapefile Merge](shapefile-merge.md)
   * [Worldpop Storage](worldpop-storage.md)
 * Depends On:
-  * [Pipeline Storage](pipeline-storage.md)
-  * [Shapefile Merge](shapefile-merge.md)
-  * [Worldpop Storage](worldpop-storage.md)
+  * [Worldpop Merge](worldpop-merge.md)

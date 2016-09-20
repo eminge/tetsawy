@@ -7,5 +7,3 @@
 * Area: [Tools](../areas/tools.png)
 * Dependents:
   * [Mumak](mumak.md)
-* Depends On:
-  * [Mumak](mumak.md)

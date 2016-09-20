@@ -11,6 +11,4 @@
   * [Campaign Service](campaign-service.md)
   * [Task Datastore](task-datastore.md)
 * Depends On:
-  * [Analytics](analytics-schema.md)
-  * [Campaign Service](campaign-service.md)
-  * [Task Datastore](task-datastore.md)
+  * [Mobile Proxy](mobile-proxy.md)

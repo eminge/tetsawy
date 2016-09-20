@@ -6,4 +6,4 @@
 * Dependents:
   * [Alert Notify](alert-notify.md)
 * Depends On:
-  * [Alert Notify](alert-notify.md)
+  * [Alert Triggers](alert-triggers-topic.md)

@@ -5,3 +5,6 @@
 * Type: datawarehouse
 * Level: Application
 * Area: [Premise v2](../areas/v2.png)
+* Depends On:
+  * [Snapshot to Kuasa](book-snapshot-to-redshift-kuasa.md)
+  * [Kiwi FE](kiwi-fe.md)

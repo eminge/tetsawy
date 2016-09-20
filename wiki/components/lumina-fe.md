@@ -13,9 +13,4 @@
   * [Logstash JVM](logstash-jvm.md)
   * [Shopkeeper](shopkeeper.md)
 * Depends On:
-  * [Book DB](book.md)
-  * [GraphQL](graphql-fe.md)
-  * [Indicators Storage](indicators-storage.md)
-  * [Logstash](logstash.md)
-  * [Logstash JVM](logstash-jvm.md)
-  * [Shopkeeper](shopkeeper.md)
+  * [Check Services](check-services.md)

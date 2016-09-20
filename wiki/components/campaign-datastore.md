@@ -5,3 +5,5 @@
 * Type: datastore
 * Level: Foundation
 * Area: [Campaign](../areas/campaign.png)
+* Depends On:
+  * [Campaign Service](campaign-service.md)

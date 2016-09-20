@@ -9,5 +9,7 @@
   * [Book Snapshot](book-snapshot.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Book Snapshot](book-snapshot.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [BigQuery Load](big-query-load.md)
+  * [Snapshot to Redshift](book-snapshot-to-redshift-dw.md)
+  * [Snapshot to Kuasa](book-snapshot-to-redshift-kuasa.md)
+  * [Leafblower](leafblower.md)

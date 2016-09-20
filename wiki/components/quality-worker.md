@@ -9,4 +9,4 @@
 * Dependents:
   * [Submission Service](submission-service.md)
 * Depends On:
-  * [Submission Service](submission-service.md)
+  * [Submission Changed Topic](submission-topic-changed.md)

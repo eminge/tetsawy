@@ -10,5 +10,4 @@
   * [Analytics](analytics-schema.md)
   * [Campaign Datastore](campaign-datastore.md)
 * Depends On:
-  * [Analytics](analytics-schema.md)
-  * [Campaign Datastore](campaign-datastore.md)
+  * [Task Service](task-service.md)

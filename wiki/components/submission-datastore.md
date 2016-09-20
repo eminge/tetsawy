@@ -5,3 +5,5 @@
 * Type: datastore
 * Level: Foundation
 * Area: [Submission](../areas/submission.png)
+* Depends On:
+  * [Submission Service](submission-service.md)

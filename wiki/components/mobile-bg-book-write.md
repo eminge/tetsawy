@@ -8,4 +8,4 @@
 * Dependents:
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Observation Decisions](obs-decisions.md)

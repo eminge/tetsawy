@@ -9,4 +9,4 @@
 * Dependents:
   * [User Service](user-service.md)
 * Depends On:
-  * [User Service](user-service.md)
+  * [User Changed Topic](user-topic-changed.md)

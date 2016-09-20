@@ -9,5 +9,5 @@
   * [Book Snapshot Views](book-snapshot-views.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Book Snapshot Views](book-snapshot-views.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Snapshot to Redshift](book-snapshot-to-redshift-dw.md)
+  * [Snapshot to Kuasa](book-snapshot-to-redshift-kuasa.md)

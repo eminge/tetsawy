@@ -5,3 +5,10 @@
 * Type: elastisearch
 * Level: Foundation
 * Area: [Tools](../areas/tools.png)
+* Depends On:
+  * [Check Services](check-services.md)
+  * [Grafana](grafana.md)
+  * [GraphQL](graphql-fe.md)
+  * [Kibana](kibana.md)
+  * [Logstash](logstash.md)
+  * [Logstash JVM](logstash-jvm.md)

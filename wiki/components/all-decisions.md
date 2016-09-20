@@ -8,5 +8,4 @@
   * [Observation Decisions](obs-decisions.md)
   * [Pipeline Storage](pipeline-storage.md)
 * Depends On:
-  * [Observation Decisions](obs-decisions.md)
-  * [Pipeline Storage](pipeline-storage.md)
+  * [Leafblower](leafblower.md)

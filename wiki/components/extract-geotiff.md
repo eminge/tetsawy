@@ -8,6 +8,3 @@
 * Dependents:
   * [WorldPop population density GeoTIFF files](worldpop.md)
   * [Worldpop Storage](worldpop-storage.md)
-* Depends On:
-  * [WorldPop population density GeoTIFF files](worldpop.md)
-  * [Worldpop Storage](worldpop-storage.md)

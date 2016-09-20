@@ -10,7 +10,4 @@
   * [Shapefile Merge](shapefile-merge.md)
   * [Worldpop Merge](worldpop-merge.md)
 * Depends On:
-  * [Google Reverse Geocode Merge](google-reverse-geocode-merge.md)
-  * [Pipeline Storage](pipeline-storage.md)
-  * [Shapefile Merge](shapefile-merge.md)
-  * [Worldpop Merge](worldpop-merge.md)
+  * [Leafblower](leafblower.md)

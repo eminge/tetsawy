@@ -8,4 +8,4 @@
 * Dependents:
   * [Pager Duty](pagerduty.md)
 * Depends On:
-  * [Pager Duty](pagerduty.md)
+  * [Alert Notify](alert-notify.md)
