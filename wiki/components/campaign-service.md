@@ -5,4 +5,4 @@
 * Team: [Supply Management](../teams/supply.md)
 * Type: service
 * Level: Application
-* Area: Campaign
+* Area: [Campaign](areas/campaign.png)

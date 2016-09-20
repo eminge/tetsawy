@@ -4,4 +4,4 @@
 * Team: [Platform & SRE](../teams/platform.md)
 * Type: jar
 * Level: Library
-* Area: Tools
+* Area: [Tools](areas/tools.png)

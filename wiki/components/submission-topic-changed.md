@@ -4,4 +4,4 @@
 * Team: [Data Quality](../teams/data-quality.md)
 * Type: topic
 * Level: Foundation
-* Area: Submission
+* Area: [Submission](areas/submission.png)

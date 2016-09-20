@@ -3,4 +3,4 @@
 * Team: [Insights](../teams/insights.md)
 * Type: elastisearch
 * Level: Application
-* Area: Premise v2
+* Area: [Premise v2](areas/v2.png)

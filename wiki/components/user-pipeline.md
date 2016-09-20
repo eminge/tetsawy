@@ -5,4 +5,4 @@
 * Team: [Supply Management](../teams/supply.md)
 * Type: dataflow
 * Level: Application
-* Area: User
+* Area: [User](areas/user.png)

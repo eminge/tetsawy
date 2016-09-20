@@ -5,4 +5,4 @@
 * Team: [Mobile](../teams/mobile.md)
 * Type: service
 * Level: Application
-* Area: Mobile
+* Area: [Mobile](areas/mobile.png)

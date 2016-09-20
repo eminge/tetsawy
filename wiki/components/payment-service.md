@@ -5,4 +5,4 @@
 * Team: [Payments](../teams/payments.md)
 * Type: service
 * Level: Application
-* Area: Payment
+* Area: [Payment](areas/payment.png)

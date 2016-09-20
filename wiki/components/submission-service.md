@@ -5,4 +5,4 @@
 * Team: [Data Quality](../teams/data-quality.md)
 * Type: service
 * Level: Application
-* Area: Submission
+* Area: [Submission](areas/submission.png)

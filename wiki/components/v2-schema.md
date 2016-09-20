@@ -4,4 +4,4 @@
 * Team: [Insights](../teams/insights.md)
 * Type: schema
 * Level: Application
-* Area: Legacy
+* Area: [Legacy](areas/legacy.png)

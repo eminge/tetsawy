@@ -3,4 +3,4 @@
 * Team: [Mobile](../teams/mobile.md)
 * Type: service
 * Level: Application
-* Area: Google
+* Area: [Google](areas/3rd-party-google.png)

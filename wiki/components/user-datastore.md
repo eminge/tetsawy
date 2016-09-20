@@ -4,4 +4,4 @@
 * Team: [Supply Management](../teams/supply.md)
 * Type: datastore
 * Level: Foundation
-* Area: User
+* Area: [User](areas/user.png)

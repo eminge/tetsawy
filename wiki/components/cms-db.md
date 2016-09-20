@@ -4,4 +4,4 @@
 * Team: [Supply Management](../teams/supply.md)
 * Type: rds
 * Level: Foundation
-* Area: Premise v2
+* Area: [Premise v2](areas/v2.png)

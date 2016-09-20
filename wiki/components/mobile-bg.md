@@ -2,4 +2,4 @@
 * Team: [Platform & SRE](../teams/platform.md)
 * Type: service
 * Level: Application
-* Area: Premise v2
+* Area: [Premise v2](areas/v2.png)
